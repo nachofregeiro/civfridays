@@ -1,6 +1,6 @@
 # Civitas Fridays
 
-**CivFridays** is meant to keeps track of the Civitas Fridays.
+**CivFridays** is meant to keep track of the Civitas Fridays.
 
 ## 🌐 Live Site
 
